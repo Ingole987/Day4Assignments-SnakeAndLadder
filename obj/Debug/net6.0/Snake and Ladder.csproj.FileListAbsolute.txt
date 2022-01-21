@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.exe
+C:\Users\prati\source\repos\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.deps.json
+C:\Users\prati\source\repos\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.runtimeconfig.json
+C:\Users\prati\source\repos\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.dll
+C:\Users\prati\source\repos\Snake and Ladder\bin\Debug\net6.0\ref\Snake and Ladder.dll
+C:\Users\prati\source\repos\Snake and Ladder\bin\Debug\net6.0\Snake and Ladder.pdb
+C:\Users\prati\source\repos\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.AssemblyInfo.cs
+C:\Users\prati\source\repos\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.dll
+C:\Users\prati\source\repos\Snake and Ladder\obj\Debug\net6.0\ref\Snake and Ladder.dll
+C:\Users\prati\source\repos\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.pdb
+C:\Users\prati\source\repos\Snake and Ladder\obj\Debug\net6.0\Snake and Ladder.genruntimeconfig.cache
